@@ -36,7 +36,7 @@ Este proyecto es una practica academica para la asignatura de Programacion 2. Im
 - Tener instalado el SDK de .NET 8.0 en el equipo.
 
 ### Compilar el Proyecto
-Abra una terminal o consola de comandos en la carpeta raiz del proyecto (`C:\Users\user\.gemini\antigravity\scratch\GestionCitasMedicas\`) y ejecute:
+Abra una terminal o consola de comandos en la carpeta raiz del proyecto (`GestionCitasMedicas/`) y ejecute:
 ```bash
 dotnet build
 ```
