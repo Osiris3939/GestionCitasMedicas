@@ -13,6 +13,8 @@ Este proyecto es una practica academica para la asignatura de Programacion 2. Im
 - Uso del principio DIP (Inversion de Dependencias) para desacoplar el envio de recordatorios de la logica central de citas.
 - Modulos de validacion robusta por consola para asegurar que las entradas de texto, numeros y fechas sean correctas.
 - Proyecto precargado con datos iniciales (pacientes, medicos, especialidades y una cita agendada) para facilitar su evaluacion.
+- <img width="1509" height="1020" alt="image" src="https://github.com/user-attachments/assets/eb2949aa-e582-428b-a92c-b0516b6c5150" />
+
 
 ## Estructura de Archivos
 
